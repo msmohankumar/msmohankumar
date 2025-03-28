@@ -55,13 +55,13 @@
 ## 📛 **Certifications**
 <p align="center">
   <a href="https://www.udacity.com/certificate/e/80b06442-5853-11ee-ab7b-fb1a20ddbfc7">
-    <img src="https://udacity-certificate.s3.amazonaws.com/image/80b06442-5853-11ee-ab7b-fb1a20ddbfc7.jpg" alt="Udacity Certificate 1" width="300"/>
+    <img src="https://github.com/msmohankumar/msmohankumar/blob/473350ea743795431bd1f75209f38cd716ed0167/udacity_data_analytics.jpg" alt="Udacity Certificate 1" width="300"/>
   </a>
   <a href="https://www.udacity.com/certificate/e/8ce881fa-2728-11ef-a98c-87201ed3f203">
-    <img src="https://udacity-certificate.s3.amazonaws.com/image/8ce881fa-2728-11ef-a98c-87201ed3f203.jpg" alt="Udacity Certificate 2" width="300"/>
+    <img src="https://github.com/msmohankumar/msmohankumar/blob/473350ea743795431bd1f75209f38cd716ed0167/Discovering%20AI%20and%20ML.jpg" alt="Udacity Certificate 2" width="300"/>
   </a>
   <a href="https://www.udacity.com/certificate/e/9b9033f6-2f80-11ee-aa26-5b0444b8e12c">
-    <img src="https://udacity-certificate.s3.amazonaws.com/image/9b9033f6-2f80-11ee-aa26-5b0444b8e12c.jpg" alt="Udacity Certificate 3" width="300"/>
+    <img src="https://github.com/msmohankumar/msmohankumar/blob/473350ea743795431bd1f75209f38cd716ed0167/Data%20Scientist%20for%20BSH.jpg" alt="Udacity Certificate 3" width="300"/>
   </a>
 </p>
 
@@ -81,6 +81,13 @@
   <a href="https://www.credly.com/users/msmohankumar/badges">
     <img src="https://img.shields.io/badge/Badges-%23FF8800.svg?style=for-the-badge&logo=credly&logoColor=white" alt="Credly Badges"/>
   </a>
+</p>
+
+---
+
+## 📸 **Profile Image**
+<p align="center">
+  <img src="https://github.com/msmohankumar/msmohankumar/blob/473350ea743795431bd1f75209f38cd716ed0167/Mohan-pic.jpeg" alt="Profile Image" width="200"/>
 </p>
 
 ---
